@@ -1,0 +1,135 @@
+.image-generator {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.chat-container {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+}
+
+textarea {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-left: 10px;
+  flex-grow: 1;
+}
+
+.upload-button {
+  padding: 10px;
+  /* background-color: #007bff; */
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;
+}
+
+.upload-button svg {
+  display: block;
+  width: 20px;
+  height: 20px;
+  stroke: white;
+}
+
+.upload-button:hover {
+  /* background-color: #0056b3; */
+}
+
+button {
+  padding: 6px;
+  margin-left: 50px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+.loading {
+  color: #007bff;
+  font-weight: bold;
+  text-align: center;
+}
+
+.image-preview img {
+  max-width: 100%;
+  margin-top: 10px;
+}
+
+.generated-image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.chat-form {
+  display: flex;
+  align-items: center;
+  background: #f5f5f5;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.upload-icon {
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.prompt-input {
+  flex: 1;
+  width: 300px;
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+.submit-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.image-generator {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+.image-preview img {
+  max-width: 100px;
+  border: 1px solid #ccc;
+  margin-top: 10px;
+}
+
+.file-preview {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  /* margin-bottom: 10px; */
+  border-radius: 4px;
+  display: block;
+}
