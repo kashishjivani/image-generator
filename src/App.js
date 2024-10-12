@@ -5,7 +5,7 @@ import "./styles.css";
 const App = () => {
   return (
     <div className="App">
-      <h1>Image Generator</h1>
+      <h1>Brand Buzz</h1>
       <ImageGenerator />
     </div>
   );

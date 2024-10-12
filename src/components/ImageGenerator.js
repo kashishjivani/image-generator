@@ -39,6 +39,7 @@ const ImageGenerator = () => {
       setImage(`data:image/webp;base64,${base64Image}`);
     } catch (error) {
       console.error("Error generating image:", error);
+      alert("Credit limit exceeded, try again later!");
     } finally {
       setLoading(false);
     }
