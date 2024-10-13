@@ -45,6 +45,17 @@ To set up the project locally:
 3. The Stability AI API processes the request and generates a high-quality image.
 4. The user can preview the image, make adjustments, and download it for use.
 
+### Example Usage
+
+To generate a marketing banner with BrandBuzz, you can use prompts to customize your visuals. Here's an example:
+
+**Prompt:**
+> "Create a banner featuring three different vegetables on a wooden table. Include red bell peppers, broccoli, and carrots, each with a price tag displaying the vegetable name and price. Place the bell peppers in a basket at the center. The background should be a blurred garden, and there should be text 'Fresho Days' with a Big Basket logo at the top left."
+
+**Generated Banner:**
+
+![BrandBuzz Banner Example](./A_banner_image_for_BrandBuzz_featuring_three_diffe.png)
+
 ## Future Opportunities
 
 - **Enhanced Customization:** Additional features for more detailed image customization, including text overlays, filters, and advanced styling.
