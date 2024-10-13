@@ -54,7 +54,7 @@ To generate a marketing banner with BrandBuzz, you can use prompts to customize 
 
 **Generated Banner:**
 
-![BrandBuzz Banner Example](https://drive.google.com/file/d/1qSjAnocS97iy1f2Jm-2_zGJz_O8hejH2/view?usp=sharing)
+![BrandBuzz Banner Example](https://drive.google.com/uc?export=view&id=1qSjAnocS97iy1f2Jm-2_zGJz_O8hejH2)
 
 ## Future Opportunities
 
