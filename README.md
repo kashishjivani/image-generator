@@ -11,9 +11,8 @@ BrandBuzz is a GenAI-powered solution designed to simplify the creation of marke
 ## Technologies Used
 
 - **Frontend:** React.js, HTML, CSS
-- **Backend:** Node.js, Express.js
 - **AI Integration:** Stability AI (for image generation)
-- **Storage & State Management:** Axios for API communication, useState for handling states
+- **Storage & State Management:** Axios for API communication and React state for state management
 
 ## Installation
 
